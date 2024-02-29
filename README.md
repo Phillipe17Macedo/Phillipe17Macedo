@@ -23,30 +23,6 @@
         />
         <img width="12" /> Java
       </td>
-      <td>
-        <img
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
-          height="40"
-          alt="spring logo"
-        />
-        <img width="12" /> Spring Framework
-      </td>
-      <td>
-        <img
-           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" 
-          height="40"
-          alt="figma logo"
-        />
-        <img width="12" /> Figma
-      </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
-          height="40"
-          alt="Angular logo"
-        />
-        <img width="12" /> Angular 14
-      </td>
       <tr>
       <td>
         <img
@@ -58,27 +34,11 @@
       </td>
       <td>
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-          height="40"
-          alt="typescript logo"
-        />
-        <img width="12" /> Typescript
-      </td>
-      <td>
-        <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
           height="40"
           alt="nodejs logo"
         />
         <img width="12" /> Node.js
-      </td>
-      <td>
-        <img
-          src="https://skillicons.dev/icons?i=express"
-          height="40"
-          alt="express logo"
-        />
-        <img width="12" /> Express
       </td>
     </tr>
     <tr>
@@ -106,14 +66,6 @@
         />
         <img width="12" /> Postgresql
       </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-          height="40"
-          alt="mongodb logo"
-        />
-        <img width="12" /> MongoDB
-      </td>
     </tr>
     <tr>
       <td>
@@ -132,14 +84,6 @@
           alt="logo"
         />
         <img width="12" /> Visual Studio Code
-      </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"
-          height="41"
-          alt="logo"
-        />
-        <img width="13" /> InteliJ
       </td>
       <td>
         <img
@@ -165,6 +109,6 @@
 </div>
 <div align="center">
 <h3>Git status</h3>
-<a href="https://github.com/Gabrielcamargos28"></a>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielcamargos28&layout=compact&langs_count=7&theme=dracula"/></a> </p>
+<a href="[https://github.com/Gabrielcamargos28](https://github.com/Phillipe17Macedo)"></a>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phillipe17Macedo28&layout=compact&langs_count=7&theme=dracula"/></a> </p>
 </div>
