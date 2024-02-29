@@ -2,13 +2,13 @@
 
 <h3 align="center">Desenvolvedor front-end & back-end, estudante do curso de Analíse Desenvolvimento de Software IFTM</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=gabrielcamargos28&label=Profile%20views&color=0e75b6&style=flat&langs_count=7&theme=dracula](https://komarev.com/ghpvc/?username=phillipe17macedo28&label=Profile%20views&color=0e75b6&style=flat&langs_count=7&theme=dracula)"
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=phillipe17macedo28&label=Profile%20views&color=0e75b6&style=flat&langs_count=7&theme=dracula](https://komarev.com/ghpvc/?username=phillipe17macedo28&label=Profile%20views&color=0e75b6&style=flat&langs_count=7&theme=dracula)"
 </p>
 <h3 align="center"><b>Connect with me:</b></h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/gabriel-camargos-dev/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="(https://www.linkedin.com/in/gabriel-camargos-dev/)" height="30" width="40" /></a>
-<a href="https://instagram.com/gabriel_pcamargos" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabriel_pcamargos" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/phillipe-macedo-234524239/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="(https://www.linkedin.com/in/phillipe-macedo-234524239/)" height="30" width="40" /></a>
+<a href="https://www.instagram.com/phillipemacedorl/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="phillipemacedorl" height="30" width="40" /></a>
 </p>
 <div align="center">
   <h3>Current Languages and Tools</h3>
