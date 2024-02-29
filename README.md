@@ -109,6 +109,6 @@
 </div>
 <div align="center">
 <h3>Git status</h3>
-<a href="[https://github.com/Gabrielcamargos28](https://github.com/Phillipe17Macedo)"></a>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phillipe17Macedo28&layout=compact&langs_count=7&theme=dracula"/></a> </p>
+<a href="[https://github.com/Phillipe17Macedo]"></a>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phillipe17Macedo&layout=compact&langs_count=7&theme=dracula"/></a> </p>
 </div>
