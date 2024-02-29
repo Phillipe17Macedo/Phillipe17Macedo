@@ -23,7 +23,6 @@
         />
         <img width="12" /> Java
       </td>
-      <tr>
       <td>
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
@@ -40,7 +39,6 @@
         />
         <img width="12" /> Node.js
       </td>
-    </tr>
     <tr>
       <td>
         <img
