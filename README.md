@@ -1,8 +1,7 @@
 <h1 align="center">HELLO, MY NAME IS PHILLIPE MACEDO</h1>
 
 <h3 align="center">Front-end & back-end developer, student of the IFTM Software Development Analysis course</h3>
-
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=phillipe17macedo&label=Profile%20views&color=0e75b6&style=flat&langs_count=7&theme=dracula](https://komarev.com/ghpvc/?username=phillipe17macedo28&label=Profile%20views&color=0e75b6&style=flat&langs_count=7&theme=dracula)"></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Phillipe17Macedo&show_icons=true&theme=radical" alt="">
 <h3 align="center"><b>Connect with me:</b></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/phillipe-macedo-234524239/" target="blank">
@@ -101,30 +100,18 @@
         <img width="13" /> Kotlin
       </td>
       <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c.svg"
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
           height="41"
           alt="logo"
         />
         <img width="13" /> C++
       </td>
       <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino.svg"
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg"
           height="41"
           alt="logo"
         />
         <img width="13" /> Arduino
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino.svg"
-          height="41"
-          alt="logo"
-        />
-        <img width="13" /> NetBeans
       </td>
     </tr>
   </tbody>
