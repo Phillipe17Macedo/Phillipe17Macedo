@@ -117,6 +117,16 @@
         <img width="13" /> Arduino
       </td>
     </tr>
+    <tr>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino.svg"
+          height="41"
+          alt="logo"
+        />
+        <img width="13" /> NetBeans
+      </td>
+    </tr>
   </tbody>
 </table>
 </div>
