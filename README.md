@@ -2,7 +2,7 @@
 
 <h3 align="center">Desenvolvedor front-end & back-end, estudante do curso de Analíse Desenvolvimento de Software IFTM</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielcamargos28&label=Profile%20views&color=0e75b6&style=flat&langs_count=7&theme=dracula"
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=gabrielcamargos28&label=Profile%20views&color=0e75b6&style=flat&langs_count=7&theme=dracula](https://komarev.com/ghpvc/?username=phillipe17macedo28&label=Profile%20views&color=0e75b6&style=flat&langs_count=7&theme=dracula)"
 </p>
 <h3 align="center"><b>Connect with me:</b></h3>
 <p align="left">
