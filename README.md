@@ -1,4 +1,4 @@
-<h1 align="center">OLÁ, MEU NOME É PHILLIPE MACEDO</h1>
+<h1 align="center">OLA, MEU NOME É PHILLIPE MACEDO</h1>
 
 <h3 align="center">Desenvolvedor front-end & back-end, estudante do curso de Analíse Desenvolvimento de Software IFTM</h3>
 
@@ -107,6 +107,14 @@
           alt="logo"
         />
         <img width="13" /> C++
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino.svg"
+          height="41"
+          alt="logo"
+        />
+        <img width="13" /> Arduino
       </td>
     </tr>
   </tbody>
