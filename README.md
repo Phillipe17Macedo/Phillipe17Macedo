@@ -2,7 +2,7 @@
 
 <h3 align="center">Desenvolvedor front-end & back-end, estudante do curso de Analíse Desenvolvimento de Software IFTM</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=phillipe17macedo28&label=Profile%20views&color=0e75b6&style=flat&langs_count=7&theme=dracula](https://komarev.com/ghpvc/?username=phillipe17macedo28&label=Profile%20views&color=0e75b6&style=flat&langs_count=7&theme=dracula)"></p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=phillipe17macedo&label=Profile%20views&color=0e75b6&style=flat&langs_count=7&theme=dracula](https://komarev.com/ghpvc/?username=phillipe17macedo28&label=Profile%20views&color=0e75b6&style=flat&langs_count=7&theme=dracula)"></p>
 <h3 align="center"><b>Connect with me:</b></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/phillipe-macedo-234524239/" target="blank">
@@ -99,6 +99,14 @@
           alt="logo"
         />
         <img width="13" /> Kotlin
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c.svg"
+          height="41"
+          alt="logo"
+        />
+        <img width="13" /> C++
       </td>
     </tr>
   </tbody>
