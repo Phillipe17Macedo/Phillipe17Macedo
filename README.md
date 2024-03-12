@@ -87,20 +87,20 @@
           height="41"
           alt="logo"
         />
-        <img width="13" /> Android Studio
+        <img width="13" /> React Native
       </td>
     </tr>
     <tr>
       <td>
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"
+          src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg)"
           height="41"
           alt="logo"
         />
-        <img width="13" /> Kotlin
+        <img width="13" /> Node.js
       </td>
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+        <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg)"
           height="41"
           alt="logo"
         />
