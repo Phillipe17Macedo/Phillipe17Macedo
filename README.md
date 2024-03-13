@@ -31,11 +31,11 @@
       </td>
       <td>
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg"
           height="40"
           alt="nodejs logo"
         />
-        <img width="12" /> Node.js
+        <img width="12" /> Dev Android
       </td>
     <tr>
       <td>
@@ -93,11 +93,11 @@
     <tr>
       <td>
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg"
           height="41"
           alt="logo"
         />
-        <img width="13" /> Node.js
+        <img width="13" /> Dev Apple
       </td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
