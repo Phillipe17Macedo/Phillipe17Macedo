@@ -31,11 +31,11 @@
       </td>
       <td>
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg"
-          height="40"
-          alt="nodejs logo"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+          height="41"
+          alt="logo"
         />
-        <img width="12" /> Dev Android
+        <img width="13" /> React Native
       </td>
     <tr>
       <td>
@@ -83,21 +83,28 @@
       </td>
       <td>
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg"
           height="41"
           alt="logo"
         />
-        <img width="13" /> React Native
+        <img width="13" /> Github With Vs Code
       </td>
     </tr>
     <tr>
       <td>
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
           height="41"
           alt="logo"
         />
-        <img width="13" /> Dev Apple
+        <img width="13" /> Html
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+          height="41"
+          alt="logo"
+        />
+        <img width="13" /> CSS
       </td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
@@ -105,13 +112,6 @@
           alt="logo"
         />
         <img width="13" /> C++
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg"
-          height="41"
-          alt="logo"
-        />
-        <img width="13" /> Arduino
       </td>
     </tr>
   </tbody>
