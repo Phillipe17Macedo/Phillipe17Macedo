@@ -97,7 +97,7 @@
           height="41"
           alt="logo"
         />
-        <img width="13" /> Html
+        <img width="13" /> HTML
       </td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
