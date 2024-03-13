@@ -100,7 +100,7 @@
         <img width="13" /> Node.js
       </td>
       <td>
-        <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg]()"
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
           height="41"
           alt="logo"
         />
