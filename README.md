@@ -125,6 +125,20 @@
         />
         <img width="13"/> Typescript
       </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/behance/behance-original.svg"
+          height="41"
+          alt="logo"
+        />
+        <img width="13"/> Behance
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"
+          height="41"
+          alt="logo"
+        />
+        <img width="13"/> Go
+      </td>
     </tr>
   </tbody>
 </table>
