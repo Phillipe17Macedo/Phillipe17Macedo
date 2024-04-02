@@ -1,7 +1,7 @@
 <h1 align="center">HELLO, MY NAME IS PHILLIPE MACEDO</h1>
 
 <h3 align="center">Front-end & back-end developer, student of the IFTM Software Development Analysis course</h3>
-<img alignself="center" src="https://github-readme-stats.vercel.app/api?username=Phillipe17Macedo&show_icons=true&theme=radical" alt="">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Phillipe17Macedo&show_icons=true&theme=radical" alt="status">
 <h3 align="center"><b>Connect with me:</b></h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/phillipe-macedo-234524239/" target="blank">
