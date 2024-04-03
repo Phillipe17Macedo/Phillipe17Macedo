@@ -1,7 +1,6 @@
 <h1 align="center">HELLO, MY NAME IS PHILLIPE MACEDO</h1>
 
 <h3 align="center">Front-end & back-end developer, student of the IFTM Software Development Analysis course</h3>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Phillipe17Macedo&show_icons=true&theme=radical" alt="status">
 <h3 align="center"><b>Connect with me:</b></h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/phillipe-macedo-234524239/" target="blank">
@@ -155,6 +154,7 @@
 <div align="center">
 <h3>Git status</h3>
 <a href="[https://github.com/Phillipe17Macedo]"></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Phillipe17Macedo&show_icons=true&theme=radical" alt="status">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phillipe17Macedo&layout=compact&langs_count=7&theme=dracula"/></a> </p>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Phillipe17Macedo&theme=react-dark" alt="">
 </div>
