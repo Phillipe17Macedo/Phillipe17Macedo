@@ -3,7 +3,7 @@
 <h3 align="center">Front-end & back-end developer, student of the IFTM Software Development Analysis course</h3>
 <h3 align="center"><b>Connect with me:</b></h3>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielCamargos28&show_icons=true&theme=radical" alt="">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Phillipe17Macedo&show_icons=true&theme=radical" alt=""><br><br>
 <a href="https://www.linkedin.com/in/phillipe-macedo-234524239/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="(https://www.linkedin.com/in/phillipe-macedo-234524239/)" height="30" width="40"/>
 </a>
@@ -11,8 +11,6 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="phillipemacedorl" height="30" width="40"/>
 </a>
 </p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Phillipe17Macedo&show_icons=true&theme=radical" alt="status">
-<br>
 <div align="center">
   <h3>Current Languages and Tools</h3>
 <table>
