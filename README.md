@@ -10,6 +10,8 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="phillipemacedorl" height="30" width="40"/>
 </a>
 </p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Phillipe17Macedo&show_icons=true&theme=radical" alt="status">
+<br>
 <div align="center">
   <h3>Current Languages and Tools</h3>
 <table>
@@ -153,7 +155,6 @@
 </div>
 <div align="center">
 <h3>Git status</h3>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Phillipe17Macedo&show_icons=true&theme=radical" alt="status">
 <a href="[https://github.com/Phillipe17Macedo]"></a>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phillipe17Macedo&layout=compact&langs_count=7&theme=dracula"/></a> </p>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Phillipe17Macedo&theme=react-dark" alt="">
