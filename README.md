@@ -155,6 +155,10 @@
         />
         <img width="13"/> Firebase
       </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="41" alt="logo"/>
+        <img width="13"/> Linkedin
+      </td>
     </tr>
   </tbody>
 </table>
