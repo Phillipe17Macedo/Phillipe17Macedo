@@ -25,12 +25,11 @@
         <img width="12" /> Java
       </td>
       <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-          height="40"
-          alt="javascript logo"
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+          height="41"
+          alt="logo"
         />
-        <img width="12" /> Javascript
+        <img width="13"/> Typescript
       </td>
       <td>
         <img
@@ -43,6 +42,14 @@
     <tr>
       <td>
         <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+          height="40"
+          alt="javascript logo"
+        />
+        <img width="12" /> Javascript
+      </td>
+      <td>
+        <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
           height="40"
           alt="git logo"
@@ -50,20 +57,11 @@
         <img width="12" /> Git
       </td>
       <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-          height="40"
-          alt="docker logo"
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"
+          height="41"
+          alt="logo"
         />
-        <img width="12" /> Docker
-      </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-          height="40"
-          alt="postgresql logo"
-        />
-        <img width="12" /> Postgresql
+        <img width="13"/> Firebase
       </td>
     </tr>
     <tr>
@@ -119,18 +117,19 @@
     </tr>
     <tr>
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg"
           height="41"
           alt="logo"
         />
-        <img width="13"/> Typescript
+        <img width="13"/> Railway
       </td>
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/behance/behance-original.svg"
-          height="41"
-          alt="logo"
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+          height="40"
+          alt="docker logo"
         />
-        <img width="13"/> Behance
+        <img width="12" /> Docker
       </td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"
@@ -142,18 +141,11 @@
     </tr>
     <tr>
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg"
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/behance/behance-original.svg"
           height="41"
           alt="logo"
         />
-        <img width="13"/> Railway
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"
-          height="41"
-          alt="logo"
-        />
-        <img width="13"/> Firebase
+        <img width="13"/> Behance
       </td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="41" alt="logo"/>
