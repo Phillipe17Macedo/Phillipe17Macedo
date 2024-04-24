@@ -151,6 +151,10 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="41" alt="logo"/>
         <img width="13"/> Linkedin
       </td>
+      <td>
+        <img src="https://img.icons8.com/?size=48&id=ka3InxFU3QZa&format=png" height="41" alt="logo"/>
+        <img width="13"/> ChatGPT
+      </td>
     </tr>
   </tbody>
 </table>
