@@ -1,6 +1,6 @@
 <h1 align="center">HELLO, MY NAME IS PHILLIPE MACEDO</h1>
 
-<h3 align="center">Front-end & back-end developer, student of the IFTM Software Development Analysis course</h3>
+<h3 align="center">Full Stack Developer, and student of the IFTM Software Development Analysis course</h3>
 <h3 align="center"><b>Connect with me:</b></h3>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Phillipe17Macedo&show_icons=true&theme=radical" alt=""><br><br>
