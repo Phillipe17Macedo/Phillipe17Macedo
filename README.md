@@ -141,19 +141,21 @@
     </tr>
     <tr>
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/behance/behance-original.svg"
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"
           height="41"
           alt="logo"
         />
-        <img width="13"/> Behance
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="41" alt="logo"/>
-        <img width="13"/> Linkedin
+        <img width="13"/> Visual Studio
       </td>
       <td>
         <img src="https://img.icons8.com/?size=48&id=ka3InxFU3QZa&format=png" height="41" alt="logo"/>
         <img width="13"/> ChatGPT
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+          height="41" 
+          alt="logo"/>
+        <img width="13"/> PHP
       </td>
     </tr>
   </tbody>
