@@ -108,11 +108,11 @@
         <img width="13" /> CSS
       </td>
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
           height="41"
           alt="logo"
         />
-        <img width="13" /> C++
+        <img width="13" /> ReactJs
       </td>
     </tr>
     <tr>
