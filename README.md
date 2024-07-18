@@ -76,7 +76,7 @@
       </td>
       <td>
         <img
-          src="[https://cdn.simpleicons.org/visualstudiocode/007ACC](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg)"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
           height="40"
           alt="logo"
         />
@@ -84,11 +84,11 @@
       </td>
       <td>
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
           height="41"
           alt="logo"
         />
-        <img width="13" /> Github With Vs Code
+        <img width="13" /> Next Js
       </td>
     </tr>
     <tr>
