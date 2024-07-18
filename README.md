@@ -76,7 +76,7 @@
       </td>
       <td>
         <img
-          src="https://cdn.simpleicons.org/visualstudiocode/007ACC"
+          src="[https://cdn.simpleicons.org/visualstudiocode/007ACC](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg)"
           height="40"
           alt="logo"
         />
