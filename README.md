@@ -31,7 +31,6 @@
         />
         <img width="13" /> React Native
       </td>
-    <tr>
       <td>
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
@@ -40,6 +39,7 @@
         />
         <img width="12" /> Javascript
       </td>
+    <tr>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
           height="41"
