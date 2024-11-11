@@ -17,14 +17,6 @@
   <tbody>
     <tr>
       <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-          height="40"
-          alt="java logo"
-        />
-        <img width="12" /> Java
-      </td>
-      <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
           height="41"
           alt="logo"
@@ -47,6 +39,13 @@
           alt="javascript logo"
         />
         <img width="12" /> Javascript
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
+          height="41"
+          alt="logo"
+        />
+        <img width="13" /> ReactJs
       </td>
       <td>
         <img
@@ -107,13 +106,6 @@
         />
         <img width="13" /> CSS
       </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
-          height="41"
-          alt="logo"
-        />
-        <img width="13" /> ReactJs
-      </td>
     </tr>
     <tr>
       <td>
@@ -130,6 +122,14 @@
           alt="docker logo"
         />
         <img width="12" /> Material Ui
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+          height="40"
+          alt="java logo"
+        />
+        <img width="12" /> Java
       </td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"
