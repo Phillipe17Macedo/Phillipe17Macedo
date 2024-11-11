@@ -52,7 +52,7 @@
           height="41"
           alt="logo"
         />
-        <img width="13"/> C#
+        <img width="13"/> .Net Core 8
       </td>
       <td>
         <img
