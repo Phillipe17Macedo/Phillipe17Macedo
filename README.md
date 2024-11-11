@@ -106,8 +106,6 @@
         />
         <img width="13" /> CSS
       </td>
-    </tr>
-    <tr>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg"
           height="41"
@@ -115,6 +113,8 @@
         />
         <img width="13"/> Railway
       </td>
+    </tr>
+    <tr>
       <td>
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg"
