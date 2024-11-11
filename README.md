@@ -48,19 +48,19 @@
         <img width="13" /> ReactJs
       </td>
       <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+          height="41"
+          alt="logo"
+        />
+        <img width="13"/> C#
+      </td>
+      <td>
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
           height="40"
           alt="git logo"
         />
         <img width="12" /> Git
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"
-          height="41"
-          alt="logo"
-        />
-        <img width="13"/> Firebase
       </td>
     </tr>
     <tr>
@@ -91,6 +91,13 @@
       </td>
     </tr>
     <tr>
+    <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"
+          height="41"
+          alt="logo"
+        />
+        <img width="13"/> Firebase
+      </td>
       <td>
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
@@ -105,13 +112,6 @@
           alt="logo"
         />
         <img width="13" /> CSS
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg"
-          height="41"
-          alt="logo"
-        />
-        <img width="13"/> Railway
       </td>
     </tr>
     <tr>
