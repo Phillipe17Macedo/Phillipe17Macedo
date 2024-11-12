@@ -1,6 +1,7 @@
 <h1 align="center">HELLO, MY NAME IS PHILLIPE MACEDO</h1>
 
 <h3 align="center">FullStack Software Engineer specializing in Mobile and Web application development. Skilled in TypeScript, React Native, React.js, Next.js, and C#, with experience in creating responsive, user-centric applications across platforms.</h3>
+<img src="https://komarev.com/ghpvc/?username=phillipe17macedo&label=Profile%20views&color=0e75b6&style=flat&langs_count=7&theme=dracula"
 <h3 align="center"><b>Connect with me:</b></h3>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Phillipe17Macedo&show_icons=true&theme=radical" alt=""><br><br>
