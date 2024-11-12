@@ -1,1 +1,155 @@
-<h1 align="center">Olá, eu sou o Phillipe Macedo</h1> <h3 align="center">Desenvolvedor de Software Full Stack e formando em Análise e Desenvolvimento de Sistemas no IFTM</h3> <p align="center"> Profissional com experiência no desenvolvimento de aplicações web e mobile, atuando tanto no frontend quanto no backend. Trabalho com diversas tecnologias modernas, como React Native, React.js, Next.js, Angular, C#, e TypeScript, e sou apaixonado por criar soluções escaláveis e eficientes que melhoram a experiência dos usuários. </p> <h3 align="center"><b>Conecte-se comigo:</b></h3> <p align="center"> <a href="https://www.linkedin.com/in/phillipe-macedo-234524239/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Phillipe Macedo" height="30" width="40"/> </a> <a href="https://www.instagram.com/phillipemacedorl/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Phillipe Macedo" height="30" width="40"/> </a> </p> <div align="center"> <h3>Minhas Ferramentas e Tecnologias</h3> <table> <tbody> <tr> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="41" alt="Typescript" /><br />Typescript</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="41" alt="React Native" /><br />React Native</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /><br />JavaScript</td> </tr> <tr> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="41" alt="ReactJs" /><br />React.js</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="41" alt="C#" /><br />.NET Core</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" /><br />Git</td> </tr> <tr> <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" /><br />MySQL</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="VS Code" /><br />VS Code</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="41" alt="Next.js" /><br />Next.js</td> </tr> <tr> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="41" alt="Firebase" /><br />Firebase</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="41" alt="HTML" /><br />HTML</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="41" alt="CSS" /><br />CSS</td> </tr> <tr> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" height="40" alt="Material UI" /><br />Material UI</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" /><br />Java</td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="41" alt="Go" /><br />Go</td> </tr> </tbody> </table> </div> <div align="center"> <h3>GitHub Status</h3> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phillipe17Macedo&layout=compact&langs_count=7&theme=dracula"/> </div> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Phillipe17Macedo/Phillipe17Macedo/refs/heads/snk/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Phillipe17Macedo/Phillipe17Macedo/refs/heads/snk/github-contribution-grid-snake.svg"> <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Phillipe17Macedo/Phillipe17Macedo/refs/heads/snk/github-contribution-grid-snake.svg"> </picture>
+<h1 align="center">HELLO, MY NAME IS PHILLIPE MACEDO</h1>
+
+<h3 align="center">Mobile Software Engineer, and student of the IFTM Software Development Analysis Course</h3>
+<h3 align="center"><b>Connect with me:</b></h3>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Phillipe17Macedo&show_icons=true&theme=radical" alt=""><br><br>
+<a href="https://www.linkedin.com/in/phillipe-macedo-234524239/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="(https://www.linkedin.com/in/phillipe-macedo-234524239/)" height="30" width="40"/>
+</a>
+<a href="https://www.instagram.com/phillipemacedorl/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="phillipemacedorl" height="30" width="40"/>
+</a>
+</p>
+<div align="center">
+  <h3>Current Languages and Tools</h3>
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+          height="41"
+          alt="logo"
+        />
+        <img width="13"/> Typescript
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+          height="41"
+          alt="logo"
+        />
+        <img width="13" /> React Native
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+          height="40"
+          alt="javascript logo"
+        />
+        <img width="12" /> Javascript
+      </td>
+    <tr>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
+          height="41"
+          alt="logo"
+        />
+        <img width="13" /> ReactJs
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+          height="41"
+          alt="logo"
+        />
+        <img width="13"/> .Net Core 8
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+          height="40"
+          alt="git logo"
+        />
+        <img width="12" /> Git
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+          alt="mysql"
+          width="40"
+          height="40"
+        />
+        <img width="12" /> MySQL
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+          height="40"
+          alt="logo"
+        />
+        <img width="12" /> Visual Studio Code
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
+          height="41"
+          alt="logo"
+        />
+        <img width="13" /> Next Js
+      </td>
+    </tr>
+    <tr>
+    <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"
+          height="41"
+          alt="logo"
+        />
+        <img width="13"/> Firebase
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+          height="41"
+          alt="logo"
+        />
+        <img width="13" /> HTML
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+          height="41"
+          alt="logo"
+        />
+        <img width="13" /> CSS
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg"
+          height="40"
+          alt="docker logo"
+        />
+        <img width="12" /> Material Ui
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+          height="40"
+          alt="java logo"
+        />
+        <img width="12" /> Java
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"
+          height="41"
+          alt="logo"
+        />
+        <img width="13"/> Go
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<div align="center">
+<h3>Git status</h3>
+<a href="[https://github.com/Phillipe17Macedo]"></a>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phillipe17Macedo&layout=compact&langs_count=7&theme=dracula"/></a> </p>
+<!--<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Phillipe17Macedo&theme=react-dark" alt="">-->
+</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Phillipe17Macedo/Phillipe17Macedo/refs/heads/snk/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Phillipe17Macedo/Phillipe17Macedo/refs/heads/snk/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Phillipe17Macedo/Phillipe17Macedo/refs/heads/snk/github-contribution-grid-snake.svg">
+</picture>
