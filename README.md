@@ -1,51 +1,51 @@
-<h1 align="center">Hi, I'm Phillipe Macedo</h1>
+<h1 align="center">Hi, I'm Phillipe Macedo 👋</h1>
 
 <p align="center">
-  <b>Mobile-focused Software Engineer</b> <br />
-  <b>React Native | Expo | TypeScript | .NET Core</b> <br /><br />
-  Building robust, user-centric mobile apps for startups and businesses. <br />
-  Passionate about delivering high-impact MVPs and scalable cross-platform solutions.
+  <b>Mobile Software Engineer | React Native, Expo & TypeScript Specialist</b><br/>
+  <b>Empowering Startups with Robust Mobile MVPs and Scalable Apps</b>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/phillipe-macedo-234524239/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/phillipemacedorl/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=phillipe17macedo&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
 
-## 💡 About Me
+## 🚀 About Me
 
-- 🎓 Degree in Systems Analysis and Development.
-- 💼 5+ years of professional experience in software engineering.
-- 🚀 Specialized in creating mobile solutions for startups and product teams.
-- 🌎 Open to remote and international opportunities.
+- 🎓 Graduated in Systems Analysis and Development
+- 📱 Passionate about building high-impact mobile applications for startups and businesses
+- 💼 5+ years' experience delivering cross-platform apps with modern, maintainable code
+- 🌍 Open to remote and international projects
 
 ---
 
-## 🛠️ Main Technologies
+## 💡 My Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="42" alt="React Native" title="React Native"/>
-  <img width="18"/>
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="42" alt="TypeScript" title="TypeScript"/>
-  <img width="18"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="42" alt="C#" title="C# / .NET Core"/>
-  <img width="18"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="JavaScript" title="JavaScript"/>
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="42" alt="Next.js" title="Next.js"/>
-  <img width="18"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="42" alt="C#" title="C#/.NET Core"/>
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="42" alt="Firebase" title="Firebase"/>
-  <img width="18"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="42" alt="Git" title="Git"/>
-  <img width="18"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="42" alt="VSCode" title="Visual Studio Code"/>
-  <img width="18"/>
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" height="42" alt="Material UI" title="Material UI"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="42" alt="Git" title="Git"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="42" alt="VSCode" title="Visual Studio Code"/>
 </p>
 
 ---
@@ -59,11 +59,21 @@
 
 ---
 
-## 🚀 Let's Connect!
+## ✨ How I Can Help Your Business
+
+- **MVP Development:** Fast, reliable mobile prototypes (React Native, Expo)
+- **Full Product Lifecycle:** From concept, design and architecture to deployment and scaling
+- **Cross-Platform Expertise:** Creating apps that shine on both iOS and Android
+- **Modern Stack:** TypeScript, React Native, .NET Core, Firebase, Next.js
+- **Startup Mindset:** Agile, hands-on, focused on business value and user experience
+
+---
+
+## 🤝 Let's Build Something Great!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/phillipe-macedo-234524239/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+    <img src="https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
   </a>
 </p>
 
