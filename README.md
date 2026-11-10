@@ -67,8 +67,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Phillipe17Macedo&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phillipe17Macedo&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Phillipe17Macedo&show_icons=true&theme=radical" alt="GitHub statistics"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Phillipe17Macedo&layout=compact&langs_count=7&theme=dracula" alt="Most used languages"/>
 </p>
 
 ---
