@@ -27,21 +27,16 @@
 ## 💡 Tech Stack & Tools
 
 <p align="center">
-  <!-- Backend & Architecture -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="42" alt="C#" title="C# / .NET 8 & 9"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="42" alt=".NET" title=".NET Core"/>
   <img width="12"/>
-  
-  <!-- Frontend & Mobile -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="42" alt="React Native" title="React Native"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="42" alt="Next.js" title="Next.js"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="42" alt="TypeScript" title="TypeScript"/>
   <img width="12"/>
-  
-  <!-- Database & Infra -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="42" alt="MySQL" title="MySQL"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="42" alt="SQL Server" title="SQL Server"/>
@@ -67,8 +62,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://raw.githubusercontent.com/Phillipe17Macedo/Phillipe17Macedo/main/stats.svg" alt="GitHub statistics"/>
-  <img height="180em" src="https://raw.githubusercontent.com/Phillipe17Macedo/Phillipe17Macedo/main/top-langs.svg" alt="Most used languages"/>
+  <img src="https://raw.githubusercontent.com/Phillipe17Macedo/Phillipe17Macedo/main/stats.svg" alt="Phillipe Macedo's GitHub stats" width="800"/>
 </p>
 
 ---
