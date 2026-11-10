@@ -1,5 +1,6 @@
 import json
 import os
+import time
 import urllib.parse
 import urllib.request
 import xml.sax.saxutils
@@ -10,9 +11,15 @@ TOKEN = os.environ["GH_TOKEN"]
 COLORS = {"TypeScript": "#3178c6", "JavaScript": "#f1e05a", "Python": "#3776ab", "Java": "#b07219", "CSS": "#563d7c", "HTML": "#e34c26", "PHP": "#4f5d95", "C++": "#f34b21", "Kotlin": "#a97bff", "Blade": "#f7523f"}
 
 def api(path):
-    request = urllib.request.Request("https://api.github.com" + path, headers={"Authorization": f"Bearer {TOKEN}", "Accept": "application/vnd.github+json"})
-    with urllib.request.urlopen(request) as response:
-        return json.load(response)
+    for attempt in range(4):
+        try:
+            request = urllib.request.Request("https://api.github.com" + path, headers={"Authorization": f"Bearer {TOKEN}", "Accept": "application/vnd.github+json", "User-Agent": "github-stats-generator"})
+            with urllib.request.urlopen(request, timeout=30) as response:
+                return json.load(response)
+        except Exception:
+            if attempt == 3:
+                raise
+            time.sleep(2 ** attempt)
 
 def search_total(query):
     return api("/search/issues?" + urllib.parse.urlencode({"q": query}))["total_count"]
@@ -25,7 +32,11 @@ repos = api(f"/users/{OWNER}/repos?per_page=100&sort=updated")
 languages = {}
 stars = sum(repo["stargazers_count"] for repo in repos)
 for repo in repos:
-    for language, amount in api(f"/repos/{OWNER}/{repo['name']}/languages").items():
+    try:
+        data = api(f"/repos/{OWNER}/{repo['name']}/languages")
+    except Exception:
+        data = {}
+    for language, amount in data.items():
         languages[language] = languages.get(language, 0) + amount
 languages = sorted(languages.items(), key=lambda item: item[1], reverse=True)[:8]
 language_total = sum(amount for _, amount in languages)
